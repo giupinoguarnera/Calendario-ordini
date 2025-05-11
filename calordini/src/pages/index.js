@@ -1,7 +1,6 @@
 import OrderCalendar from "@/src/components/OrderCalendar";
 import { useEffect, useState } from "react";
 import { loadOrdersFromExcel } from "../utils/excelUtils"; // Percorso relativo
-import OrderCalendar from "../components/OrderCalendar";
 
 
 
